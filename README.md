@@ -14,4 +14,4 @@ To execute the project, just click on your machine and execute:
 <b><i> yarn start </i></b> >> To start the application;
 <b><i> yarn test </i></b> >> to perform automated tests.
 
-<b>Link para repositório da API </b>
+<b>Link para repositório da API </b> https://github.com/HallefHLVieira/goStack_challenge02
